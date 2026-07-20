@@ -1,1 +1,51 @@
 # bITCOIN_12
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Claim Your Crypto Rewards</title>
+    <style>
+        body {
+            background-color: #0b0e11;
+            color: #ffffff;
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            text-align: center;
+        }
+        .container {
+            border: 1px solid #2b3139;
+            padding: 40px;
+            border-radius: 8px;
+            background-color: #181a20;
+            max-width: 400px;
+        }
+        h1 { font-size: 24px; color: #f0b90b; }
+        p { color: #eaecef; font-size: 14px; line-height: 1.5; }
+        .btn {
+            display: inline-block;
+            background-color: #f0b90b;
+            color: #000000;
+            padding: 12px 24px;
+            font-weight: bold;
+            text-decoration: none;
+            border-radius: 4px;
+            margin-top: 20px;
+            cursor: pointer;
+        }
+        .btn:hover { background-color: #ffe259; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Verify Wallet Allocation</h1>
+        <p>Your connected wallet is eligible for the promotional airdrop. Click below to sign the secure transaction and claim your tokens.</p>
+        <!-- CHANGE THE URL BELOW TO YOUR RICK ROLL LINK IF DESIRED -->
+        <a href="https://youtube.com" class="btn">Connect & Claim</a>
+    </div>
+</body>
+</html>
